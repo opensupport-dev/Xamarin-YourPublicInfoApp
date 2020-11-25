@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Cross_platform_App.MainPage">
+
+    <ContentPage.Content>
+        <StackLayout HorizontalOptions="CenterAndExpand">
+            <Label Text="  Your Info  " HorizontalOptions="CenterAndExpand"
+                   TextColor="White" BackgroundColor="DarkGreen"
+                   FontSize="Title" />
+            <Button Text="Get Info" Clicked="Button_Clicked" />
+
+            <ScrollView HorizontalOptions="CenterAndExpand">
+                <StackLayout HorizontalOptions="StartAndExpand">
+                    <Label Text="1. Public IP address" Margin="0,5,0,0" />
+                    <Label x:Name="lbIP" Text="Your IP" />
+
+                    <Label Text="2. City" Margin="0,10,0,0" />
+                    <Label x:Name="lbCity" Text="Your city" />
+
+                    <Label Text="3. Region" Margin="0,10,0,0" />
+                    <Label x:Name="lbRegion" Text="Your region" />
+
+                    <Label Text="4. Country" Margin="0,10,0,0" />
+                    <Label x:Name="lbCountry" Text="Your country" />
+
+                    <Label Text="5. Geo Info" Margin="0,10,0,0" />
+                    <Label x:Name="lbGeo" Text="Your Geo" />
+
+                    <Label Text="6. ServiceProvider" Margin="0,10,0,0" />
+                    <Label x:Name="lbSP" Text="Your service provider" />
+
+                    <Label Text="7. PostalCode" Margin="0,10,0,0" />
+                    <Label x:Name="lbPCode" Text="Your postal code" />
+
+                    <Label Text="8. Timezone" Margin="0,10,0,0" />
+                    <Label x:Name="lbTimeZone" Text="Your timezone" />
+
+                </StackLayout>
+
+            </ScrollView>
+            <Button Text="(c)FreeNanum" HorizontalOptions="CenterAndExpand"
+                   FontFamily="Bold" TextColor="Green" Margin="0,10,0,0"
+                    Clicked="Button_Clicked_FreeNanum"/>
+
+
+        </StackLayout>
+    </ContentPage.Content>
+
+</ContentPage>

@@ -1,0 +1,14 @@
+E:\Users\bini\Xamarin.Forms-Android,IOS,UWP\Cross-platform-App\Cross-platform-App\Cross-platform-App\bin\Debug\netstandard2.0\Cross-platform-App.deps.json
+E:\Users\bini\Xamarin.Forms-Android,IOS,UWP\Cross-platform-App\Cross-platform-App\Cross-platform-App\bin\Debug\netstandard2.0\Cross-platform-App.dll
+E:\Users\bini\Xamarin.Forms-Android,IOS,UWP\Cross-platform-App\Cross-platform-App\Cross-platform-App\bin\Debug\netstandard2.0\ref\Cross-platform-App.dll
+E:\Users\bini\Xamarin.Forms-Android,IOS,UWP\Cross-platform-App\Cross-platform-App\Cross-platform-App\bin\Debug\netstandard2.0\Cross-platform-App.pdb
+E:\Users\bini\Xamarin.Forms-Android,IOS,UWP\Cross-platform-App\Cross-platform-App\Cross-platform-App\obj\Debug\netstandard2.0\Cross-platform-App.csprojAssemblyReference.cache
+E:\Users\bini\Xamarin.Forms-Android,IOS,UWP\Cross-platform-App\Cross-platform-App\Cross-platform-App\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Users\bini\Xamarin.Forms-Android,IOS,UWP\Cross-platform-App\Cross-platform-App\Cross-platform-App\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\Users\bini\Xamarin.Forms-Android,IOS,UWP\Cross-platform-App\Cross-platform-App\Cross-platform-App\obj\Debug\netstandard2.0\Cross-platform-App.AssemblyInfoInputs.cache
+E:\Users\bini\Xamarin.Forms-Android,IOS,UWP\Cross-platform-App\Cross-platform-App\Cross-platform-App\obj\Debug\netstandard2.0\Cross-platform-App.AssemblyInfo.cs
+E:\Users\bini\Xamarin.Forms-Android,IOS,UWP\Cross-platform-App\Cross-platform-App\Cross-platform-App\obj\Debug\netstandard2.0\Cross-platform-App.csproj.CoreCompileInputs.cache
+E:\Users\bini\Xamarin.Forms-Android,IOS,UWP\Cross-platform-App\Cross-platform-App\Cross-platform-App\obj\Debug\netstandard2.0\XamlC.stamp
+E:\Users\bini\Xamarin.Forms-Android,IOS,UWP\Cross-platform-App\Cross-platform-App\Cross-platform-App\obj\Debug\netstandard2.0\Cross-platform-App.dll
+E:\Users\bini\Xamarin.Forms-Android,IOS,UWP\Cross-platform-App\Cross-platform-App\Cross-platform-App\obj\Debug\netstandard2.0\ref\Cross-platform-App.dll
+E:\Users\bini\Xamarin.Forms-Android,IOS,UWP\Cross-platform-App\Cross-platform-App\Cross-platform-App\obj\Debug\netstandard2.0\Cross-platform-App.pdb
