@@ -8,6 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Xamarin.Forms;
 using Newtonsoft.Json;
+using YourPublicInfoApp;
 
 namespace Cross_platform_App
 {
@@ -30,13 +31,24 @@ namespace Cross_platform_App
         public MainPage()
         {
             InitializeComponent();
+
+#if InterstitialAd
+            IInterstitialAd adInterstitial = DependencyService.Get<IInterstitialAd>();
+            adInterstitial.Show();
+            adInterstitial.AdReceived += AdInterstitial_AdReceived;
+#endif
         }
+
+#if InterstitialAd
+        private void AdInterstitial_AdReceived(object sender, EventArgs e)
+        {
+            //this.adText.Text = "After Ads";
+        }
+#endif
 
         private async void Button_Clicked(object sender, EventArgs e)
         {
             await GetPublicIP();
-
-
 
             var Result = JsonConvert.DeserializeObject<APIResponse>(responseBody);
             Debug.WriteLine($"{Result}");

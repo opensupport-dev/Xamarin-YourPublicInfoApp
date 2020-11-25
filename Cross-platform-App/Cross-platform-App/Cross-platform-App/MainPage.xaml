@@ -1,14 +1,20 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
-             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="Cross_platform_App.MainPage">
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             xmlns:admobsample="clr-namespace:YourPublicInfoApp"
+             x:Class="Cross_platform_App.MainPage" >
 
     <ContentPage.Content>
         <StackLayout HorizontalOptions="CenterAndExpand">
-            <Label Text="  Your Info  " HorizontalOptions="CenterAndExpand"
+            <Label Text="Your Info"
                    TextColor="White" BackgroundColor="DarkGreen"
-                   FontSize="Title" />
-            <Button Text="Get Info" Clicked="Button_Clicked" />
+                   FontSize="Title" 
+                   FontAttributes="Bold"
+                   HorizontalTextAlignment="Center"
+                   WidthRequest="320" HeightRequest="50" />
+            
+            <Button Text="Get Info" Clicked="Button_Clicked"
+                    WidthRequest="320" HeightRequest="50" />
 
             <ScrollView HorizontalOptions="CenterAndExpand">
                 <StackLayout HorizontalOptions="StartAndExpand">
@@ -41,8 +47,12 @@
             </ScrollView>
             <Button Text="(c)FreeNanum" HorizontalOptions="CenterAndExpand"
                    FontFamily="Bold" TextColor="Green" Margin="0,10,0,0"
-                    Clicked="Button_Clicked_FreeNanum"/>
+                    Clicked="Button_Clicked_FreeNanum"
+                    WidthRequest="320" HeightRequest="50" />
 
+            <admobsample:AdBanner x:Name="adBanner" Size="Standardbanner" 
+                                  WidthRequest="320" HeightRequest="50" 
+                                  BackgroundColor="Transparent"/>
 
         </StackLayout>
     </ContentPage.Content>
