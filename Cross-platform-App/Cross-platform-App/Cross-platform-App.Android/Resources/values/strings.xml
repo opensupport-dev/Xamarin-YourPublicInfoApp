@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <string name="app_name">YourOpenInfo</string>
+
+<!-- 
+    <string name="main_notice">" 공지사항: 모든 서비스는 무료입니다. 즐거운 만남 가지시길 바랍니다."</string>
+
+    <string name="login_fail">"로그인에 실패했습니다!"</string>
+    <string name="login_success">"로그인에 성공하였습니다!"</string>
+
+    <string name="no_matcheable">"현재 매칭할 상대방이 없습니다!"</string>
+    <string name="dislike">"싫어요!"</string>
+    <string name="like">"좋아요!"</string>
+    <string name="leftorRight">"제가 맘에 드시면 오른쪽으로, 아니면 왼쪽으로 드래그하세요!"</string>
+    <string name="newMatch">"새로운 관계가 맺어졌어요!"</string>
+    <string name="deleteMatch">"관계를 끊었습니다!"</string>
+    <string name="delete_oldMatch" type="id">관계를 끊었습니다!</string>
+
+    <string name="register_fail">"가입하는데 실패하였습니다!"</string>
+    <string name="register_success">"가입하는데 성공하였습니다!"</string>
+
+    <string name="match_notice1">" 공지사항: 모든 서비스는 무료입니다. 즐거운 만남 가지시길 바랍니다."</string>
+    <string name="match_notice2">" 현재 매칭된 상대방이 없습니다. 힘내세요, 파이팅!"</string>
+
+    <string name="delete_match">"채팅방 삭제"</string>
+    <string name="gointo_chat">"채팅방 입장"</string>
+
+    <string name="profile_image">"프로필사진"</string>
+
+
+
+    <string name="admob_app_id">ca-app-pub-2799352003951727~3697978061</string>
+
+    <string name="banner_ad_unit_id_for_test">ca-app-pub-3940256099942544/6300978111</string>
+
+    <string name="banner_ad_unit_id_Main">ca-app-pub-2799352003951727/6128700287</string>
+    <string name="banner_ad_unit_id_Match">ca-app-pub-2799352003951727/2467645110</string>
+    <string name="banner_ad_unit_id_Setting">ca-app-pub-2799352003951727/9450181395</string>
+
+-->
+
+
+</resources>

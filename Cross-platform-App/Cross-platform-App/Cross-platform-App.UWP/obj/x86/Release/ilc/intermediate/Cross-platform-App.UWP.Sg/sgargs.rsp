@@ -1,0 +1,12 @@
+﻿/ref:"E:\Users\bini\Xamarin.Forms-Android,IOS,UWP\Cross-platform-App\Cross-platform-App\Cross-platform-App.UWP\obj\x86\Release\ilc\intermediate\PreMergeILTransformed"
+/ref:"C:\Users\bini\.nuget\packages\runtime.win10-x86.microsoft.net.native.sharedlibrary\2.1.8\tools\SharedLibrary\ret\AnalysisILToc"
+/ref:"E:\Users\bini\Xamarin.Forms-Android,IOS,UWP\Cross-platform-App\Cross-platform-App\Cross-platform-App.UWP\obj\x86\Release\ilc\intermediate\PreMergeILTransformed"
+/ref:"E:\Users\bini\Xamarin.Forms-Android,IOS,UWP\Cross-platform-App\Cross-platform-App\Cross-platform-App.UWP\obj\x86\Release\ilc\in\\"
+/ref:"C:\Users\bini\.nuget\packages\runtime.win10-x86.microsoft.net.native.compiler\2.1.8\tools\x86\ilc\lib\Private\\"
+/ref:"E:\Users\bini\Xamarin.Forms-Android,IOS,UWP\Cross-platform-App\Cross-platform-App\Cross-platform-App.UWP\obj\x86\Release\ilc\in"
+/ref:"E:\Users\bini\Xamarin.Forms-Android,IOS,UWP\Cross-platform-App\Cross-platform-App\Cross-platform-App.UWP\obj\x86\Release\ilc\in\WinMetadata"
+/ca:System.Private.CoreLib
+/cscpath:"C:\Users\bini\.nuget\packages\microsoft.net.native.compiler\2.1.8\tools\csc"
+/out:"E:\Users\bini\Xamarin.Forms-Android,IOS,UWP\Cross-platform-App\Cross-platform-App\Cross-platform-App.UWP\obj\x86\Release\ilc\intermediate\SgGenerated\\"
+/int:"E:\Users\bini\Xamarin.Forms-Android,IOS,UWP\Cross-platform-App\Cross-platform-App\Cross-platform-App.UWP\obj\x86\Release\ilc\intermediate\Cross-platform-App.UWP.Sg"
+"@E:\Users\bini\Xamarin.Forms-Android,IOS,UWP\Cross-platform-App\Cross-platform-App\Cross-platform-App.UWP\obj\x86\Release\ilc\intermediate\Cross-platform-App.UWP.Sg\ComputedSerializationInput.txt"

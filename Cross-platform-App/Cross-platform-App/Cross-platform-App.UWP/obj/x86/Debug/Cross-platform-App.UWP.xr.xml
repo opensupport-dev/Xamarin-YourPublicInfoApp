@@ -10,6 +10,6 @@
     <RootType FullName="Windows.UI.Xaml.Controls.Grid">
       <RootProperty Name="Background" />
     </RootType>
-    <RootType FullName="Cross_platform_App.UWP.MainPage" />
+    <RootType FullName="YourOpenInfo.UWP.MainPage" />
   </Roots.RootTypes>
 </Roots>

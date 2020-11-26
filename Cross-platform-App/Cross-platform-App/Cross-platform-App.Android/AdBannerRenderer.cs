@@ -15,10 +15,10 @@ using Android.Widget;
 using Xamarin.Forms.Platform.Android;
 using Android.Gms.Ads;
 using Xamarin.Forms;
-using Cross_platform_App.Droid;
+using YourOpenInfo.Droid;
 
 [assembly: ExportRenderer(typeof(AdBanner), typeof(AdBannerRenderer))]
-namespace Cross_platform_App.Droid
+namespace YourOpenInfo.Droid
 {
     public class AdBannerRenderer : ViewRenderer
     {

@@ -33,8 +33,8 @@
         "frameworks": {
           "uap10.0.16299": {
             "projectReferences": {
-              "E:\\Users\\bini\\Xamarin.Forms-Android,IOS,UWP\\Cross-platform-App\\Cross-platform-App\\Cross-platform-App\\YourPublicInfoApp.csproj": {
-                "projectPath": "E:\\Users\\bini\\Xamarin.Forms-Android,IOS,UWP\\Cross-platform-App\\Cross-platform-App\\Cross-platform-App\\YourPublicInfoApp.csproj"
+              "E:\\Users\\bini\\Xamarin.Forms-Android,IOS,UWP\\Cross-platform-App\\Cross-platform-App\\Cross-platform-App\\YourOpenInfoApp.csproj": {
+                "projectPath": "E:\\Users\\bini\\Xamarin.Forms-Android,IOS,UWP\\Cross-platform-App\\Cross-platform-App\\Cross-platform-App\\YourOpenInfoApp.csproj"
               }
             }
           }
@@ -87,12 +87,12 @@
         }
       }
     },
-    "E:\\Users\\bini\\Xamarin.Forms-Android,IOS,UWP\\Cross-platform-App\\Cross-platform-App\\Cross-platform-App\\YourPublicInfoApp.csproj": {
+    "E:\\Users\\bini\\Xamarin.Forms-Android,IOS,UWP\\Cross-platform-App\\Cross-platform-App\\Cross-platform-App\\YourOpenInfoApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Users\\bini\\Xamarin.Forms-Android,IOS,UWP\\Cross-platform-App\\Cross-platform-App\\Cross-platform-App\\YourPublicInfoApp.csproj",
-        "projectName": "YourPublicInfoApp",
-        "projectPath": "E:\\Users\\bini\\Xamarin.Forms-Android,IOS,UWP\\Cross-platform-App\\Cross-platform-App\\Cross-platform-App\\YourPublicInfoApp.csproj",
+        "projectUniqueName": "E:\\Users\\bini\\Xamarin.Forms-Android,IOS,UWP\\Cross-platform-App\\Cross-platform-App\\Cross-platform-App\\YourOpenInfoApp.csproj",
+        "projectName": "YourOpenInfoApp",
+        "projectPath": "E:\\Users\\bini\\Xamarin.Forms-Android,IOS,UWP\\Cross-platform-App\\Cross-platform-App\\Cross-platform-App\\YourOpenInfoApp.csproj",
         "packagesPath": "C:\\Users\\bini\\.nuget\\packages\\",
         "outputPath": "E:\\Users\\bini\\Xamarin.Forms-Android,IOS,UWP\\Cross-platform-App\\Cross-platform-App\\Cross-platform-App\\obj\\",
         "projectStyle": "PackageReference",

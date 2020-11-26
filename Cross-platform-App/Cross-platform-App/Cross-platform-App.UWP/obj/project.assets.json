@@ -365,7 +365,7 @@
           "buildTransitive/Xamarin.Forms.targets": {}
         }
       },
-      "YourPublicInfoApp/1.0.0": {
+      "YourOpenInfoApp/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
@@ -374,10 +374,10 @@
           "Xamarin.Forms": "4.8.0.1687"
         },
         "compile": {
-          "bin/placeholder/YourPublicInfoApp.dll": {}
+          "bin/placeholder/YourOpenInfoApp.dll": {}
         },
         "runtime": {
-          "bin/placeholder/YourPublicInfoApp.dll": {}
+          "bin/placeholder/YourOpenInfoApp.dll": {}
         }
       }
     },
@@ -909,7 +909,7 @@
           "buildTransitive/Xamarin.Forms.targets": {}
         }
       },
-      "YourPublicInfoApp/1.0.0": {
+      "YourOpenInfoApp/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
@@ -918,10 +918,10 @@
           "Xamarin.Forms": "4.8.0.1687"
         },
         "compile": {
-          "bin/placeholder/YourPublicInfoApp.dll": {}
+          "bin/placeholder/YourOpenInfoApp.dll": {}
         },
         "runtime": {
-          "bin/placeholder/YourPublicInfoApp.dll": {}
+          "bin/placeholder/YourOpenInfoApp.dll": {}
         }
       }
     },
@@ -1454,7 +1454,7 @@
           "buildTransitive/Xamarin.Forms.targets": {}
         }
       },
-      "YourPublicInfoApp/1.0.0": {
+      "YourOpenInfoApp/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
@@ -1463,10 +1463,10 @@
           "Xamarin.Forms": "4.8.0.1687"
         },
         "compile": {
-          "bin/placeholder/YourPublicInfoApp.dll": {}
+          "bin/placeholder/YourOpenInfoApp.dll": {}
         },
         "runtime": {
-          "bin/placeholder/YourPublicInfoApp.dll": {}
+          "bin/placeholder/YourOpenInfoApp.dll": {}
         }
       }
     },
@@ -1820,7 +1820,7 @@
           "buildTransitive/Xamarin.Forms.targets": {}
         }
       },
-      "YourPublicInfoApp/1.0.0": {
+      "YourOpenInfoApp/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
@@ -1829,10 +1829,10 @@
           "Xamarin.Forms": "4.8.0.1687"
         },
         "compile": {
-          "bin/placeholder/YourPublicInfoApp.dll": {}
+          "bin/placeholder/YourOpenInfoApp.dll": {}
         },
         "runtime": {
-          "bin/placeholder/YourPublicInfoApp.dll": {}
+          "bin/placeholder/YourOpenInfoApp.dll": {}
         }
       }
     },
@@ -2364,7 +2364,7 @@
           "buildTransitive/Xamarin.Forms.targets": {}
         }
       },
-      "YourPublicInfoApp/1.0.0": {
+      "YourOpenInfoApp/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
@@ -2373,10 +2373,10 @@
           "Xamarin.Forms": "4.8.0.1687"
         },
         "compile": {
-          "bin/placeholder/YourPublicInfoApp.dll": {}
+          "bin/placeholder/YourOpenInfoApp.dll": {}
         },
         "runtime": {
-          "bin/placeholder/YourPublicInfoApp.dll": {}
+          "bin/placeholder/YourOpenInfoApp.dll": {}
         }
       }
     },
@@ -2909,7 +2909,7 @@
           "buildTransitive/Xamarin.Forms.targets": {}
         }
       },
-      "YourPublicInfoApp/1.0.0": {
+      "YourOpenInfoApp/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
@@ -2918,10 +2918,10 @@
           "Xamarin.Forms": "4.8.0.1687"
         },
         "compile": {
-          "bin/placeholder/YourPublicInfoApp.dll": {}
+          "bin/placeholder/YourOpenInfoApp.dll": {}
         },
         "runtime": {
-          "bin/placeholder/YourPublicInfoApp.dll": {}
+          "bin/placeholder/YourOpenInfoApp.dll": {}
         }
       }
     },
@@ -3453,7 +3453,7 @@
           "buildTransitive/Xamarin.Forms.targets": {}
         }
       },
-      "YourPublicInfoApp/1.0.0": {
+      "YourOpenInfoApp/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
@@ -3462,10 +3462,10 @@
           "Xamarin.Forms": "4.8.0.1687"
         },
         "compile": {
-          "bin/placeholder/YourPublicInfoApp.dll": {}
+          "bin/placeholder/YourOpenInfoApp.dll": {}
         },
         "runtime": {
-          "bin/placeholder/YourPublicInfoApp.dll": {}
+          "bin/placeholder/YourOpenInfoApp.dll": {}
         }
       }
     },
@@ -3998,7 +3998,7 @@
           "buildTransitive/Xamarin.Forms.targets": {}
         }
       },
-      "YourPublicInfoApp/1.0.0": {
+      "YourOpenInfoApp/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
@@ -4007,10 +4007,10 @@
           "Xamarin.Forms": "4.8.0.1687"
         },
         "compile": {
-          "bin/placeholder/YourPublicInfoApp.dll": {}
+          "bin/placeholder/YourOpenInfoApp.dll": {}
         },
         "runtime": {
-          "bin/placeholder/YourPublicInfoApp.dll": {}
+          "bin/placeholder/YourOpenInfoApp.dll": {}
         }
       }
     }
@@ -8164,10 +8164,10 @@
         "xamarin.forms.nuspec"
       ]
     },
-    "YourPublicInfoApp/1.0.0": {
+    "YourOpenInfoApp/1.0.0": {
       "type": "project",
-      "path": "../Cross-platform-App/YourPublicInfoApp.csproj",
-      "msbuildProject": "../Cross-platform-App/YourPublicInfoApp.csproj"
+      "path": "../Cross-platform-App/YourOpenInfoApp.csproj",
+      "msbuildProject": "../Cross-platform-App/YourOpenInfoApp.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -8175,7 +8175,7 @@
       "Microsoft.NETCore.UniversalWindowsPlatform >= 6.1.9",
       "Xamarin.Essentials >= 1.5.3.2",
       "Xamarin.Forms >= 4.6.0.1141",
-      "YourPublicInfoApp >= 1.0.0"
+      "YourOpenInfoApp >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -8186,9 +8186,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Users\\bini\\Xamarin.Forms-Android,IOS,UWP\\Cross-platform-App\\Cross-platform-App\\Cross-platform-App.UWP\\YourPublicInfoApp.UWP.csproj",
-      "projectName": "YourPublicInfoApp.UWP",
-      "projectPath": "E:\\Users\\bini\\Xamarin.Forms-Android,IOS,UWP\\Cross-platform-App\\Cross-platform-App\\Cross-platform-App.UWP\\YourPublicInfoApp.UWP.csproj",
+      "projectUniqueName": "E:\\Users\\bini\\Xamarin.Forms-Android,IOS,UWP\\Cross-platform-App\\Cross-platform-App\\Cross-platform-App.UWP\\YourOpenInfoApp.UWP.csproj",
+      "projectName": "YourOpenInfoApp.UWP",
+      "projectPath": "E:\\Users\\bini\\Xamarin.Forms-Android,IOS,UWP\\Cross-platform-App\\Cross-platform-App\\Cross-platform-App.UWP\\YourOpenInfoApp.UWP.csproj",
       "packagesPath": "C:\\Users\\bini\\.nuget\\packages\\",
       "outputPath": "E:\\Users\\bini\\Xamarin.Forms-Android,IOS,UWP\\Cross-platform-App\\Cross-platform-App\\Cross-platform-App.UWP\\obj\\",
       "projectStyle": "PackageReference",
@@ -8212,8 +8212,8 @@
       "frameworks": {
         "uap10.0.16299": {
           "projectReferences": {
-            "E:\\Users\\bini\\Xamarin.Forms-Android,IOS,UWP\\Cross-platform-App\\Cross-platform-App\\Cross-platform-App\\YourPublicInfoApp.csproj": {
-              "projectPath": "E:\\Users\\bini\\Xamarin.Forms-Android,IOS,UWP\\Cross-platform-App\\Cross-platform-App\\Cross-platform-App\\YourPublicInfoApp.csproj"
+            "E:\\Users\\bini\\Xamarin.Forms-Android,IOS,UWP\\Cross-platform-App\\Cross-platform-App\\Cross-platform-App\\YourOpenInfoApp.csproj": {
+              "projectPath": "E:\\Users\\bini\\Xamarin.Forms-Android,IOS,UWP\\Cross-platform-App\\Cross-platform-App\\Cross-platform-App\\YourOpenInfoApp.csproj"
             }
           }
         }
@@ -8271,7 +8271,7 @@
       "code": "NU1605",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "6.2.9에서 6.1.9(으)로 다운그레이드된 패키지 Microsoft.NETCore.UniversalWindowsPlatform을(를) 발견했습니다. 프로젝트에서 패키지를 직접 참조하여 다른 버전을 선택하세요. \r\n YourPublicInfoApp.UWP -> Xamarin.Essentials 1.5.3.2 -> Microsoft.NETCore.UniversalWindowsPlatform (>= 6.2.9) \r\n YourPublicInfoApp.UWP -> Microsoft.NETCore.UniversalWindowsPlatform (>= 6.1.9)",
+      "message": "6.2.9에서 6.1.9(으)로 다운그레이드된 패키지 Microsoft.NETCore.UniversalWindowsPlatform을(를) 발견했습니다. 프로젝트에서 패키지를 직접 참조하여 다른 버전을 선택하세요. \r\n YourOpenInfoApp.UWP -> Xamarin.Essentials 1.5.3.2 -> Microsoft.NETCore.UniversalWindowsPlatform (>= 6.2.9) \r\n YourOpenInfoApp.UWP -> Microsoft.NETCore.UniversalWindowsPlatform (>= 6.1.9)",
       "libraryId": "Microsoft.NETCore.UniversalWindowsPlatform",
       "targetGraphs": [
         "UAP,Version=v10.0.16299",
@@ -8288,7 +8288,7 @@
       "code": "NU1605",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "4.8.0.1687에서 4.6.0.1141(으)로 다운그레이드된 패키지 Xamarin.Forms을(를) 발견했습니다. 프로젝트에서 패키지를 직접 참조하여 다른 버전을 선택하세요. \r\n YourPublicInfoApp.UWP -> YourPublicInfoApp -> Xamarin.Forms (>= 4.8.0.1687) \r\n YourPublicInfoApp.UWP -> Xamarin.Forms (>= 4.6.0.1141)",
+      "message": "4.8.0.1687에서 4.6.0.1141(으)로 다운그레이드된 패키지 Xamarin.Forms을(를) 발견했습니다. 프로젝트에서 패키지를 직접 참조하여 다른 버전을 선택하세요. \r\n YourOpenInfoApp.UWP -> YourOpenInfoApp -> Xamarin.Forms (>= 4.8.0.1687) \r\n YourOpenInfoApp.UWP -> Xamarin.Forms (>= 4.6.0.1141)",
       "libraryId": "Xamarin.Forms",
       "targetGraphs": [
         "UAP,Version=v10.0.16299",

@@ -2,7 +2,7 @@
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
-namespace Cross_platform_App
+namespace YourOpenInfo
 {
     public partial class App : Application
     {

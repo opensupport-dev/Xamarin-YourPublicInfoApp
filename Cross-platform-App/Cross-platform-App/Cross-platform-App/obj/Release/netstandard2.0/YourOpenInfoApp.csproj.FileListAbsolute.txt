@@ -1,0 +1,13 @@
+E:\Users\bini\Xamarin.Forms-Android,IOS,UWP\Cross-platform-App\Cross-platform-App\Cross-platform-App\bin\Release\netstandard2.0\YourOpenInfoApp.deps.json
+E:\Users\bini\Xamarin.Forms-Android,IOS,UWP\Cross-platform-App\Cross-platform-App\Cross-platform-App\bin\Release\netstandard2.0\YourOpenInfoApp.dll
+E:\Users\bini\Xamarin.Forms-Android,IOS,UWP\Cross-platform-App\Cross-platform-App\Cross-platform-App\bin\Release\netstandard2.0\ref\YourOpenInfoApp.dll
+E:\Users\bini\Xamarin.Forms-Android,IOS,UWP\Cross-platform-App\Cross-platform-App\Cross-platform-App\bin\Release\netstandard2.0\YourOpenInfoApp.pdb
+E:\Users\bini\Xamarin.Forms-Android,IOS,UWP\Cross-platform-App\Cross-platform-App\Cross-platform-App\obj\Release\netstandard2.0\App.xaml.g.cs
+E:\Users\bini\Xamarin.Forms-Android,IOS,UWP\Cross-platform-App\Cross-platform-App\Cross-platform-App\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+E:\Users\bini\Xamarin.Forms-Android,IOS,UWP\Cross-platform-App\Cross-platform-App\Cross-platform-App\obj\Release\netstandard2.0\YourOpenInfoApp.AssemblyInfoInputs.cache
+E:\Users\bini\Xamarin.Forms-Android,IOS,UWP\Cross-platform-App\Cross-platform-App\Cross-platform-App\obj\Release\netstandard2.0\YourOpenInfoApp.AssemblyInfo.cs
+E:\Users\bini\Xamarin.Forms-Android,IOS,UWP\Cross-platform-App\Cross-platform-App\Cross-platform-App\obj\Release\netstandard2.0\YourOpenInfoApp.csproj.CoreCompileInputs.cache
+E:\Users\bini\Xamarin.Forms-Android,IOS,UWP\Cross-platform-App\Cross-platform-App\Cross-platform-App\obj\Release\netstandard2.0\XamlC.stamp
+E:\Users\bini\Xamarin.Forms-Android,IOS,UWP\Cross-platform-App\Cross-platform-App\Cross-platform-App\obj\Release\netstandard2.0\YourOpenInfoApp.dll
+E:\Users\bini\Xamarin.Forms-Android,IOS,UWP\Cross-platform-App\Cross-platform-App\Cross-platform-App\obj\Release\netstandard2.0\ref\YourOpenInfoApp.dll
+E:\Users\bini\Xamarin.Forms-Android,IOS,UWP\Cross-platform-App\Cross-platform-App\Cross-platform-App\obj\Release\netstandard2.0\YourOpenInfoApp.pdb

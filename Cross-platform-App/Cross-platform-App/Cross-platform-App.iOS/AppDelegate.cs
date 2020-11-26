@@ -4,8 +4,9 @@ using System.Linq;
 
 using Foundation;
 using UIKit;
+using YourOpenInfo;
 
-namespace Cross_platform_App.iOS
+namespace YourOpenInfo.iOS
 {
     // The UIApplicationDelegate for the application. This class is responsible for launching the 
     // User Interface of the application, as well as listening (and optionally responding) to 

@@ -13,7 +13,7 @@ using Windows.UI.Xaml.Input;
 using Windows.UI.Xaml.Media;
 using Windows.UI.Xaml.Navigation;
 
-namespace Cross_platform_App.UWP
+namespace YourOpenInfo.UWP
 {
     public sealed partial class MainPage
     {
@@ -21,7 +21,7 @@ namespace Cross_platform_App.UWP
         {
             this.InitializeComponent();
 
-            LoadApplication(new Cross_platform_App.App());
+            LoadApplication(new YourOpenInfo.App());
         }
     }
 }

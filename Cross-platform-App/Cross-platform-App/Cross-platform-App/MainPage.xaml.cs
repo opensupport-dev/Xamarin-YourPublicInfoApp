@@ -10,7 +10,7 @@ using Xamarin.Forms;
 using Newtonsoft.Json;
 using YourPublicInfoApp;
 
-namespace Cross_platform_App
+namespace YourOpenInfo
 {
     public class APIResponse
     {

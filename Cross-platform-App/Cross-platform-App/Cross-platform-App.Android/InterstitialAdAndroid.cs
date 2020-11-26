@@ -11,11 +11,11 @@ using Android.OS;
 using Android.Runtime;
 using Android.Views;
 using Android.Widget;
-using Cross_platform_App.Droid;
+using YourOpenInfo.Droid;
 using YourPublicInfoApp;
 
 [assembly: Xamarin.Forms.Dependency(typeof(InterstitialAdAndroid))]
-namespace Cross_platform_App.Droid
+namespace YourOpenInfo.Droid
 {
     class InterstitialAdAndroid : AdListener, IInterstitialAd
     {

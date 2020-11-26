@@ -1,0 +1,1 @@
+E:\Users\bini\Xamarin.Forms-Android,IOS,UWP\Cross-platform-App\Cross-platform-App\Cross-platform-App.UWP\YourOpenInfoApp.UWP.csproj;x86

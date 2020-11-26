@@ -1659,7 +1659,7 @@
           "build/MonoAndroid90/Xamarin.GooglePlayServices.Measurement.Sdk.Api.targets": {}
         }
       },
-      "YourPublicInfoApp/1.0.0": {
+      "YourOpenInfoApp/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
@@ -1668,10 +1668,10 @@
           "Xamarin.Forms": "4.8.0.1687"
         },
         "compile": {
-          "bin/placeholder/YourPublicInfoApp.dll": {}
+          "bin/placeholder/YourOpenInfoApp.dll": {}
         },
         "runtime": {
-          "bin/placeholder/YourPublicInfoApp.dll": {}
+          "bin/placeholder/YourOpenInfoApp.dll": {}
         }
       }
     }
@@ -3545,10 +3545,10 @@
         "xamarin.googleplayservices.measurement.sdk.api.nuspec"
       ]
     },
-    "YourPublicInfoApp/1.0.0": {
+    "YourOpenInfoApp/1.0.0": {
       "type": "project",
-      "path": "../Cross-platform-App/YourPublicInfoApp.csproj",
-      "msbuildProject": "../Cross-platform-App/YourPublicInfoApp.csproj"
+      "path": "../Cross-platform-App/YourOpenInfoApp.csproj",
+      "msbuildProject": "../Cross-platform-App/YourOpenInfoApp.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -3556,7 +3556,7 @@
       "Xamarin.Essentials >= 1.5.3.2",
       "Xamarin.Forms >= 4.6.0.1141",
       "Xamarin.GooglePlayServices.Ads >= 71.1720.4",
-      "YourPublicInfoApp >= 1.0.0"
+      "YourOpenInfoApp >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -3566,9 +3566,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Users\\bini\\Xamarin.Forms-Android,IOS,UWP\\Cross-platform-App\\Cross-platform-App\\Cross-platform-App.Android\\YourPublicInfoApp.Android.csproj",
-      "projectName": "YourPublicInfoApp.Android",
-      "projectPath": "E:\\Users\\bini\\Xamarin.Forms-Android,IOS,UWP\\Cross-platform-App\\Cross-platform-App\\Cross-platform-App.Android\\YourPublicInfoApp.Android.csproj",
+      "projectUniqueName": "E:\\Users\\bini\\Xamarin.Forms-Android,IOS,UWP\\Cross-platform-App\\Cross-platform-App\\Cross-platform-App.Android\\YourOpenInfoApp.Android.csproj",
+      "projectName": "YourOpenInfoApp.Android",
+      "projectPath": "E:\\Users\\bini\\Xamarin.Forms-Android,IOS,UWP\\Cross-platform-App\\Cross-platform-App\\Cross-platform-App.Android\\YourOpenInfoApp.Android.csproj",
       "packagesPath": "C:\\Users\\bini\\.nuget\\packages\\",
       "outputPath": "E:\\Users\\bini\\Xamarin.Forms-Android,IOS,UWP\\Cross-platform-App\\Cross-platform-App\\Cross-platform-App.Android\\obj\\",
       "projectStyle": "PackageReference",
@@ -3591,8 +3591,8 @@
       "frameworks": {
         "monoandroid10.0": {
           "projectReferences": {
-            "E:\\Users\\bini\\Xamarin.Forms-Android,IOS,UWP\\Cross-platform-App\\Cross-platform-App\\Cross-platform-App\\YourPublicInfoApp.csproj": {
-              "projectPath": "E:\\Users\\bini\\Xamarin.Forms-Android,IOS,UWP\\Cross-platform-App\\Cross-platform-App\\Cross-platform-App\\YourPublicInfoApp.csproj"
+            "E:\\Users\\bini\\Xamarin.Forms-Android,IOS,UWP\\Cross-platform-App\\Cross-platform-App\\Cross-platform-App\\YourOpenInfoApp.csproj": {
+              "projectPath": "E:\\Users\\bini\\Xamarin.Forms-Android,IOS,UWP\\Cross-platform-App\\Cross-platform-App\\Cross-platform-App\\YourOpenInfoApp.csproj"
             }
           }
         }
@@ -3622,7 +3622,7 @@
       "code": "NU1605",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "4.8.0.1687에서 4.6.0.1141(으)로 다운그레이드된 패키지 Xamarin.Forms을(를) 발견했습니다. 프로젝트에서 패키지를 직접 참조하여 다른 버전을 선택하세요. \r\n YourPublicInfoApp.Android -> YourPublicInfoApp -> Xamarin.Forms (>= 4.8.0.1687) \r\n YourPublicInfoApp.Android -> Xamarin.Forms (>= 4.6.0.1141)",
+      "message": "4.8.0.1687에서 4.6.0.1141(으)로 다운그레이드된 패키지 Xamarin.Forms을(를) 발견했습니다. 프로젝트에서 패키지를 직접 참조하여 다른 버전을 선택하세요. \r\n YourOpenInfoApp.Android -> YourOpenInfoApp -> Xamarin.Forms (>= 4.8.0.1687) \r\n YourOpenInfoApp.Android -> Xamarin.Forms (>= 4.6.0.1141)",
       "libraryId": "Xamarin.Forms",
       "targetGraphs": [
         "MonoAndroid,Version=v10.0"
