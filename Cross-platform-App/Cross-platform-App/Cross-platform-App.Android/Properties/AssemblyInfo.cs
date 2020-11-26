@@ -30,4 +30,4 @@ using Android.App;
 [assembly: UsesPermission(Android.Manifest.Permission.WriteExternalStorage)]
 
 //App Icon
-[assembly: Application(Icon = "@drawable/icons8_size48")]
+//[assembly: Application(Icon = "@drawable/icons8_size48")]

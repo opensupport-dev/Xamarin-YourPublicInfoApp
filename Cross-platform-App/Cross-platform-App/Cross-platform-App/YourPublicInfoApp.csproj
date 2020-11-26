@@ -9,7 +9,14 @@
     <DebugType>portable</DebugType>
     <DebugSymbols>true</DebugSymbols>
   </PropertyGroup>
-
+  
+  <!-- Error fix: MSB6006: "java.exe" exited with Code 2 error -->
+  <PropertyGroup>
+    <AndroidEnableMultiDex>true</AndroidEnableMultiDex>
+    <DxExtraArguments>--dex --no-strict --force-jumbo</DxExtraArguments>
+    <AndroidMultiDexClassListExtraArgs>--disable-annotation-resolution-workaround</AndroidMultiDexClassListExtraArgs>
+  </PropertyGroup>
+  
   <ItemGroup>
     <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
     <PackageReference Include="Xamarin.Forms" Version="4.8.0.1687" />
