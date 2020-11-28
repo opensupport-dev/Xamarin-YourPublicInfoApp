@@ -3566,11 +3566,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Users\\bini\\Xamarin.Forms-Android,IOS,UWP\\Cross-platform-App\\Cross-platform-App\\Cross-platform-App.Android\\YourOpenInfoApp.Android.csproj",
+      "projectUniqueName": "E:\\github__\\opensupoort-dev\\YourPublicInfoApp\\Cross-platform-App\\Cross-platform-App\\Cross-platform-App.Android\\YourOpenInfoApp.Android.csproj",
       "projectName": "YourOpenInfoApp.Android",
-      "projectPath": "E:\\Users\\bini\\Xamarin.Forms-Android,IOS,UWP\\Cross-platform-App\\Cross-platform-App\\Cross-platform-App.Android\\YourOpenInfoApp.Android.csproj",
+      "projectPath": "E:\\github__\\opensupoort-dev\\YourPublicInfoApp\\Cross-platform-App\\Cross-platform-App\\Cross-platform-App.Android\\YourOpenInfoApp.Android.csproj",
       "packagesPath": "C:\\Users\\bini\\.nuget\\packages\\",
-      "outputPath": "E:\\Users\\bini\\Xamarin.Forms-Android,IOS,UWP\\Cross-platform-App\\Cross-platform-App\\Cross-platform-App.Android\\obj\\",
+      "outputPath": "E:\\github__\\opensupoort-dev\\YourPublicInfoApp\\Cross-platform-App\\Cross-platform-App\\Cross-platform-App.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -3591,8 +3591,8 @@
       "frameworks": {
         "monoandroid10.0": {
           "projectReferences": {
-            "E:\\Users\\bini\\Xamarin.Forms-Android,IOS,UWP\\Cross-platform-App\\Cross-platform-App\\Cross-platform-App\\YourOpenInfoApp.csproj": {
-              "projectPath": "E:\\Users\\bini\\Xamarin.Forms-Android,IOS,UWP\\Cross-platform-App\\Cross-platform-App\\Cross-platform-App\\YourOpenInfoApp.csproj"
+            "E:\\github__\\opensupoort-dev\\YourPublicInfoApp\\Cross-platform-App\\Cross-platform-App\\Cross-platform-App\\YourOpenInfoApp.csproj": {
+              "projectPath": "E:\\github__\\opensupoort-dev\\YourPublicInfoApp\\Cross-platform-App\\Cross-platform-App\\Cross-platform-App\\YourOpenInfoApp.csproj"
             }
           }
         }

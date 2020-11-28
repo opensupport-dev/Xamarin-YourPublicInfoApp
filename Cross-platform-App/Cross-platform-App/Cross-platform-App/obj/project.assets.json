@@ -678,11 +678,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Users\\bini\\Xamarin.Forms-Android,IOS,UWP\\Cross-platform-App\\Cross-platform-App\\Cross-platform-App\\YourOpenInfoApp.csproj",
+      "projectUniqueName": "E:\\github__\\opensupoort-dev\\YourPublicInfoApp\\Cross-platform-App\\Cross-platform-App\\Cross-platform-App\\YourOpenInfoApp.csproj",
       "projectName": "YourOpenInfoApp",
-      "projectPath": "E:\\Users\\bini\\Xamarin.Forms-Android,IOS,UWP\\Cross-platform-App\\Cross-platform-App\\Cross-platform-App\\YourOpenInfoApp.csproj",
+      "projectPath": "E:\\github__\\opensupoort-dev\\YourPublicInfoApp\\Cross-platform-App\\Cross-platform-App\\Cross-platform-App\\YourOpenInfoApp.csproj",
       "packagesPath": "C:\\Users\\bini\\.nuget\\packages\\",
-      "outputPath": "E:\\Users\\bini\\Xamarin.Forms-Android,IOS,UWP\\Cross-platform-App\\Cross-platform-App\\Cross-platform-App\\obj\\",
+      "outputPath": "E:\\github__\\opensupoort-dev\\YourPublicInfoApp\\Cross-platform-App\\Cross-platform-App\\Cross-platform-App\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

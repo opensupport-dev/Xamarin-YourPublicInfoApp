@@ -8186,11 +8186,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Users\\bini\\Xamarin.Forms-Android,IOS,UWP\\Cross-platform-App\\Cross-platform-App\\Cross-platform-App.UWP\\YourOpenInfoApp.UWP.csproj",
+      "projectUniqueName": "E:\\github__\\opensupoort-dev\\YourPublicInfoApp\\Cross-platform-App\\Cross-platform-App\\Cross-platform-App.UWP\\YourOpenInfoApp.UWP.csproj",
       "projectName": "YourOpenInfoApp.UWP",
-      "projectPath": "E:\\Users\\bini\\Xamarin.Forms-Android,IOS,UWP\\Cross-platform-App\\Cross-platform-App\\Cross-platform-App.UWP\\YourOpenInfoApp.UWP.csproj",
+      "projectPath": "E:\\github__\\opensupoort-dev\\YourPublicInfoApp\\Cross-platform-App\\Cross-platform-App\\Cross-platform-App.UWP\\YourOpenInfoApp.UWP.csproj",
       "packagesPath": "C:\\Users\\bini\\.nuget\\packages\\",
-      "outputPath": "E:\\Users\\bini\\Xamarin.Forms-Android,IOS,UWP\\Cross-platform-App\\Cross-platform-App\\Cross-platform-App.UWP\\obj\\",
+      "outputPath": "E:\\github__\\opensupoort-dev\\YourPublicInfoApp\\Cross-platform-App\\Cross-platform-App\\Cross-platform-App.UWP\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -8212,8 +8212,8 @@
       "frameworks": {
         "uap10.0.16299": {
           "projectReferences": {
-            "E:\\Users\\bini\\Xamarin.Forms-Android,IOS,UWP\\Cross-platform-App\\Cross-platform-App\\Cross-platform-App\\YourOpenInfoApp.csproj": {
-              "projectPath": "E:\\Users\\bini\\Xamarin.Forms-Android,IOS,UWP\\Cross-platform-App\\Cross-platform-App\\Cross-platform-App\\YourOpenInfoApp.csproj"
+            "E:\\github__\\opensupoort-dev\\YourPublicInfoApp\\Cross-platform-App\\Cross-platform-App\\Cross-platform-App\\YourOpenInfoApp.csproj": {
+              "projectPath": "E:\\github__\\opensupoort-dev\\YourPublicInfoApp\\Cross-platform-App\\Cross-platform-App\\Cross-platform-App\\YourOpenInfoApp.csproj"
             }
           }
         }

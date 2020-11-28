@@ -1055,11 +1055,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Users\\bini\\Xamarin.Forms-Android,IOS,UWP\\Cross-platform-App\\Cross-platform-App\\Cross-platform-App.iOS\\YourOpenInfoApp.iOS.csproj",
+      "projectUniqueName": "E:\\github__\\opensupoort-dev\\YourPublicInfoApp\\Cross-platform-App\\Cross-platform-App\\Cross-platform-App.iOS\\YourOpenInfoApp.iOS.csproj",
       "projectName": "YourOpenInfoApp.iOS",
-      "projectPath": "E:\\Users\\bini\\Xamarin.Forms-Android,IOS,UWP\\Cross-platform-App\\Cross-platform-App\\Cross-platform-App.iOS\\YourOpenInfoApp.iOS.csproj",
+      "projectPath": "E:\\github__\\opensupoort-dev\\YourPublicInfoApp\\Cross-platform-App\\Cross-platform-App\\Cross-platform-App.iOS\\YourOpenInfoApp.iOS.csproj",
       "packagesPath": "C:\\Users\\bini\\.nuget\\packages\\",
-      "outputPath": "E:\\Users\\bini\\Xamarin.Forms-Android,IOS,UWP\\Cross-platform-App\\Cross-platform-App\\Cross-platform-App.iOS\\obj\\",
+      "outputPath": "E:\\github__\\opensupoort-dev\\YourPublicInfoApp\\Cross-platform-App\\Cross-platform-App\\Cross-platform-App.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1080,8 +1080,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "E:\\Users\\bini\\Xamarin.Forms-Android,IOS,UWP\\Cross-platform-App\\Cross-platform-App\\Cross-platform-App\\YourOpenInfoApp.csproj": {
-              "projectPath": "E:\\Users\\bini\\Xamarin.Forms-Android,IOS,UWP\\Cross-platform-App\\Cross-platform-App\\Cross-platform-App\\YourOpenInfoApp.csproj"
+            "E:\\github__\\opensupoort-dev\\YourPublicInfoApp\\Cross-platform-App\\Cross-platform-App\\Cross-platform-App\\YourOpenInfoApp.csproj": {
+              "projectPath": "E:\\github__\\opensupoort-dev\\YourPublicInfoApp\\Cross-platform-App\\Cross-platform-App\\Cross-platform-App\\YourOpenInfoApp.csproj"
             }
           }
         }
